@@ -1,0 +1,88 @@
+2022-04-06 15:39:13.868262 [info] : ========== Server init ==========
+2022-04-06 15:39:13.868281 [info] : Port:0, OpenLinger: false
+2022-04-06 15:39:13.868356 [info] : LogSys level: 1
+2022-04-06 15:39:13.868439 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 15:56:01.932734 [info] : ========== Server init ==========
+2022-04-06 15:56:01.932746 [info] : Port:1316, OpenLinger: false
+2022-04-06 15:56:01.932780 [info] : LogSys level: 1
+2022-04-06 15:56:01.932833 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 15:58:26.091497 [info] : ========== Server init ==========
+2022-04-06 15:58:26.091514 [info] : Port:1316, OpenLinger: false
+2022-04-06 15:58:26.091544 [info] : LogSys level: 1
+2022-04-06 15:58:26.091586 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 15:58:45.051291 [info] : ========== Server init ==========
+2022-04-06 15:58:45.051305 [info] : Port:1316, OpenLinger: false
+2022-04-06 15:58:45.051340 [info] : LogSys level: 1
+2022-04-06 15:58:45.051387 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 15:59:50.504745 [info] : ========== Server init ==========
+2022-04-06 15:59:50.504759 [info] : Port:1316, OpenLinger: false
+2022-04-06 15:59:50.504790 [info] : LogSys level: 1
+2022-04-06 15:59:50.504842 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 16:00:38.198845 [info] : ========== Server init ==========
+2022-04-06 16:00:38.198866 [info] : Port:1316, OpenLinger: false
+2022-04-06 16:00:38.198900 [info] : LogSys level: 1
+2022-04-06 16:00:38.198952 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 16:02:41.831329 [info] : ========== Server init ==========
+2022-04-06 16:02:41.831343 [info] : Port:1316, OpenLinger: false
+2022-04-06 16:02:41.831373 [info] : LogSys level: 1
+2022-04-06 16:02:41.831965 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 16:19:11.836938 [info] : ========== Server init ==========
+2022-04-06 16:19:11.836951 [info] : Port:1316, OpenLinger: false
+2022-04-06 16:19:11.836955 [info] : LogSys level: 1
+2022-04-06 16:19:11.836959 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 16:25:09.003710 [info] : ========== Server init ==========
+2022-04-06 16:25:09.003731 [info] : Port:1316, OpenLinger: false
+2022-04-06 16:25:09.003781 [info] : LogSys level: 1
+2022-04-06 16:25:09.003883 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 16:38:39.300079 [info] : ========== Server init ==========
+2022-04-06 16:38:39.300106 [info] : Port:1316, OpenLinger: false
+2022-04-06 16:38:39.300180 [info] : LogSys level: 1
+2022-04-06 16:38:39.300255 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 16:39:08.108789 [info] : ========== Server init ==========
+2022-04-06 16:39:08.108823 [info] : Port:1316, OpenLinger: false
+2022-04-06 16:39:08.108868 [info] : LogSys level: 1
+2022-04-06 16:39:08.108971 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 17:24:22.794903 [info] : ========== Server init ==========
+2022-04-06 17:24:22.794924 [info] : Port:1316, OpenLinger: false
+2022-04-06 17:24:22.794961 [info] : LogSys level: 1
+2022-04-06 17:24:22.795013 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 17:33:46.833483 [info] : ========== Server init ==========
+2022-04-06 17:33:46.833497 [info] : Port:1316, OpenLinger: false
+2022-04-06 17:33:46.833554 [info] : LogSys level: 1
+2022-04-06 17:33:46.833615 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 17:41:10.931513 [info] : ========== Server init ==========
+2022-04-06 17:41:10.931531 [info] : Port:1316, OpenLinger: false
+2022-04-06 17:41:10.931570 [info] : LogSys level: 1
+2022-04-06 17:41:10.931586 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 17:46:30.443439 [info] : ========== Server init ==========
+2022-04-06 17:46:30.443454 [info] : Port:1316, OpenLinger: false
+2022-04-06 17:46:30.443487 [info] : LogSys level: 1
+2022-04-06 17:46:30.443530 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 18:00:32.483444 [info] : ========== Server init ==========
+2022-04-06 18:00:32.483458 [info] : Port:1316, OpenLinger: false
+2022-04-06 18:00:32.483490 [info] : LogSys level: 1
+2022-04-06 18:00:32.483542 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 18:00:32.483573 [info] : ========== Server start ==========
+2022-04-06 18:01:33.612487 [info] : Client[18](127.0.0.1:46256) in, userCount:1
+2022-04-06 18:15:48.369315 [info] : ========== Server init ==========
+2022-04-06 18:15:48.369333 [info] : Port:1316, OpenLinger: false
+2022-04-06 18:15:48.369368 [info] : LogSys level: 1
+2022-04-06 18:15:48.369420 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 18:15:48.369434 [info] : ========== Server start ==========
+2022-04-06 18:16:00.085518 [info] : Client[18](127.0.0.1:54939) in, userCount:1
+2022-04-06 18:16:00.085667 [info] : Client[18] in!
+2022-04-06 18:20:29.028457 [info] : Client[19](127.0.0.1:2737) in, userCount:2
+2022-04-06 21:00:32.080283 [info] : ========== Server init ==========
+2022-04-06 21:00:32.080299 [info] : Port:1316, OpenLinger: false
+2022-04-06 21:00:32.080332 [info] : LogSys level: 1
+2022-04-06 21:00:32.080407 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 21:00:32.080424 [info] : ========== Server start ==========
+2022-04-06 21:00:40.917062 [info] : Client[18](127.0.0.1:56497) in, userCount:1
+2022-04-06 22:36:33.768662 [info] : ========== Server init ==========
+2022-04-06 22:36:33.768685 [info] : Port:1316, OpenLinger: false
+2022-04-06 22:36:33.768691 [info] : LogSys level: 1
+2022-04-06 22:36:33.768765 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-06 22:38:52.348814 [info] : ========== Server init ==========
+2022-04-06 22:38:52.348830 [info] : Port:1316, OpenLinger: false
+2022-04-06 22:38:52.348863 [info] : LogSys level: 1
+2022-04-06 22:38:52.348933 [info] : SqlConnPool num: 12, ThreadPool num: 6

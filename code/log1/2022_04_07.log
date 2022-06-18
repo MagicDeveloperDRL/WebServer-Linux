@@ -1,0 +1,92 @@
+2022-04-07 22:57:35.719283 [info] : ========== Server init ==========
+2022-04-07 22:57:35.719295 [info] : Port:1316, OpenLinger: false
+2022-04-07 22:57:35.719329 [info] : LogSys level: 1
+2022-04-07 22:57:35.719374 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-07 23:08:46.428430 [info] : ========== Server init ==========
+2022-04-07 23:08:46.428446 [info] : Port:1316, OpenLinger: false
+2022-04-07 23:08:46.428488 [info] : LogSys level: 1
+2022-04-07 23:08:46.428550 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-07 23:08:46.428579 [info] : ========== Server start ==========
+2022-04-07 23:09:23.284505 [info] : Client[18](127.0.0.1:20644) in, userCount:1
+2022-04-07 23:09:23.284619 [info] : Client[18] in!
+2022-04-07 23:11:32.629288 [info] : Client[18] quit!
+2022-04-07 23:13:01.619050 [info] : ========== Server init ==========
+2022-04-07 23:13:01.619065 [info] : Port:1316, OpenLinger: false
+2022-04-07 23:13:01.619110 [info] : LogSys level: 1
+2022-04-07 23:13:01.619162 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-07 23:13:01.619174 [info] : ========== Server start ==========
+2022-04-07 23:13:30.739930 [info] : Client[18](127.0.0.1:26788) in, userCount:1
+2022-04-07 23:13:30.740098 [info] : Client[18] in!
+2022-04-07 23:13:30.775283 [info] : Client[19](127.0.0.1:27300) in, userCount:2
+2022-04-07 23:13:30.775355 [info] : Client[19] in!
+2022-04-07 23:13:30.776023 [info] : Client[21](127.0.0.1:27812) in, userCount:3
+2022-04-07 23:13:30.776080 [info] : Client[21] in!
+2022-04-07 23:13:30.782921 [info] : Client[22](127.0.0.1:28324) in, userCount:4
+2022-04-07 23:13:30.782965 [info] : Client[22] in!
+2022-04-07 23:13:49.053888 [info] : Verify name:123 pwd:123
+2022-04-07 23:13:49.406976 [error]: RequestLine Error
+2022-04-07 23:13:49.407212 [info] : Client[18] quit!
+2022-04-07 23:13:49.407327 [info] : Client[18](127.0.0.1:26788) quit, UserCount:3
+2022-04-07 23:13:54.127439 [info] : Client[18](127.0.0.1:28836) in, userCount:4
+2022-04-07 23:13:54.127490 [info] : Client[18] in!
+2022-04-07 23:13:54.127519 [info] : Client[23](127.0.0.1:29348) in, userCount:5
+2022-04-07 23:13:54.127538 [info] : Client[23] in!
+2022-04-07 23:14:05.934793 [info] : Verify name:liu pwd:123
+2022-04-07 23:14:06.092057 [error]: RequestLine Error
+2022-04-07 23:14:06.092335 [info] : Client[19] quit!
+2022-04-07 23:14:06.092445 [info] : Client[19](127.0.0.1:27300) quit, UserCount:4
+2022-04-07 23:14:12.897361 [info] : Client[19](127.0.0.1:29860) in, userCount:5
+2022-04-07 23:14:12.897493 [info] : Client[19] in!
+2022-04-07 23:14:12.900874 [info] : Client[24](127.0.0.1:30372) in, userCount:6
+2022-04-07 23:14:12.901002 [info] : Client[24] in!
+2022-04-07 23:14:15.196149 [info] : Verify name:liu pwd:123
+2022-04-07 23:14:15.197196 [error]: RequestLine Error
+2022-04-07 23:14:15.197477 [info] : Client[23] quit!
+2022-04-07 23:14:15.197646 [info] : Client[23](127.0.0.1:29348) quit, UserCount:5
+2022-04-07 23:14:18.898124 [info] : Client[24] quit!
+2022-04-07 23:14:18.898313 [info] : Client[24](127.0.0.1:30372) quit, UserCount:4
+2022-04-07 23:14:57.874808 [info] : Client[23](127.0.0.1:30884) in, userCount:5
+2022-04-07 23:14:57.874869 [info] : Client[23] in!
+2022-04-07 23:14:57.877118 [info] : Client[24](127.0.0.1:31396) in, userCount:6
+2022-04-07 23:14:57.877179 [info] : Client[24] in!
+2022-04-07 23:15:03.876267 [info] : Client[24] quit!
+2022-04-07 23:15:03.876515 [info] : Client[24](127.0.0.1:31396) quit, UserCount:5
+2022-04-07 23:17:52.337049 [info] : Client[23] quit!
+2022-04-07 23:17:52.337284 [info] : Client[23](127.0.0.1:30884) quit, UserCount:4
+2022-04-07 23:17:52.337349 [info] : Client[18] quit!
+2022-04-07 23:17:52.337419 [info] : Client[18](127.0.0.1:28836) quit, UserCount:3
+2022-04-07 23:17:52.337465 [info] : Client[21] quit!
+2022-04-07 23:17:52.337580 [info] : Client[21](127.0.0.1:27812) quit, UserCount:2
+2022-04-07 23:17:52.337646 [info] : Client[19] quit!
+2022-04-07 23:17:52.337739 [info] : Client[19](127.0.0.1:29860) quit, UserCount:1
+2022-04-07 23:17:52.337778 [info] : Client[22] quit!
+2022-04-07 23:23:42.024814 [info] : ========== Server init ==========
+2022-04-07 23:23:42.024836 [info] : Port:1316, OpenLinger: false
+2022-04-07 23:23:42.024868 [info] : LogSys level: 1
+2022-04-07 23:23:42.024924 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-07 23:25:25.564170 [info] : ========== Server init ==========
+2022-04-07 23:25:25.564186 [info] : Port:1316, OpenLinger: false
+2022-04-07 23:25:25.564221 [info] : LogSys level: 1
+2022-04-07 23:25:25.564275 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-04-07 23:25:25.564303 [info] : ========== Server start ==========
+2022-04-07 23:25:45.546721 [info] : Client[18](127.0.0.1:41124) in, userCount:1
+2022-04-07 23:25:45.546803 [info] : Client[18] in!
+2022-04-07 23:25:45.550915 [info] : Client[19](127.0.0.1:41636) in, userCount:2
+2022-04-07 23:25:45.550974 [info] : Client[19] in!
+2022-04-07 23:25:45.587515 [info] : Client[21](127.0.0.1:42148) in, userCount:3
+2022-04-07 23:25:45.587558 [info] : Client[21] in!
+2022-04-07 23:25:51.793157 [info] : Verify name:liu pwd:123
+2022-04-07 23:25:51.795080 [error]: RequestLine Error
+2022-04-07 23:25:51.795435 [info] : Client[19] quit!
+2022-04-07 23:25:51.795575 [info] : Client[19](127.0.0.1:41636) quit, UserCount:2
+2022-04-07 23:25:51.831289 [info] : Client[19](127.0.0.1:42660) in, userCount:3
+2022-04-07 23:25:51.831346 [info] : Client[19] in!
+2022-04-07 23:25:51.832782 [info] : Client[22](127.0.0.1:43172) in, userCount:4
+2022-04-07 23:25:51.832831 [info] : Client[22] in!
+2022-04-07 23:25:51.835321 [info] : Client[23](127.0.0.1:43684) in, userCount:5
+2022-04-07 23:25:51.835934 [info] : Client[23] in!
+2022-04-07 23:25:51.836003 [info] : Client[24](127.0.0.1:44196) in, userCount:6
+2022-04-07 23:25:51.836030 [info] : Client[24] in!
+2022-04-07 23:25:58.487249 [info] : Verify name:liu pwd:123
+2022-04-07 23:25:58.488795 [error]: RequestLine Error
+2022-04-07 23:25:58.489151 [info] : Client[21] quit!

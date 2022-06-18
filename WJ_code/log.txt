@@ -1,0 +1,12 @@
+[INFO]     2022-42-13 18:42:41 : Info %d,%d
+[DEBUG]    2022-42-13 18:42:41 : debug
+[WARNING]     2022-42-13 18:42:41 : warning
+[ERROR]     2022-42-13 18:42:41 : error
+[INFO]     2022-00-13 22:00:12 : Info %d,%d
+[DEBUG]    2022-00-13 22:00:12 : debug
+[WARNING]     2022-00-13 22:00:12 : warning
+[ERROR]     2022-00-13 22:00:12 : error
+[INFO]     2022-01-13 22:01:38 : Info %d,%d
+[DEBUG]    2022-01-13 22:01:38 : debug
+[WARNING]     2022-01-13 22:01:38 : warning
+[ERROR]     2022-01-13 22:01:38 : error
